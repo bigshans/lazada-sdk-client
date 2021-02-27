@@ -1,0 +1,14 @@
+{
+  "name": "lazada-sdk-client",
+  "version": "1.0.0",
+  "description": "The sdk client imitated from python version.",
+  "main": "index.js",
+  "author": "bigshans",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.20.0"
+  }
+}
