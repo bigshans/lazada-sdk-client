@@ -1,1 +1,0 @@
-lazada-sdk-client
