@@ -144,5 +144,4 @@ class LazadaClient {
     }
 }
 
-module.export = LazadaRequest;
-module.export = LazadaClient;
+module.exports = {LazadaRequest, LazadaClient};
